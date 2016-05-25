@@ -1,0 +1,20 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"ConvertToUTF8",
+		"DocBlockr",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"LESS",
+		"Less2Css",
+		"lessc",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeServer"
+	]
+}
