@@ -6,14 +6,18 @@
 	"installed_packages":
 	[
 		"AngularJS",
+		"AutoFileName",
+		"BracketHighlighter",
 		"ConvertToUTF8",
 		"DocBlockr",
 		"Emmet",
 		"HTML-CSS-JS Prettify",
+		"IMESupport",
 		"LESS",
 		"Less2Css",
 		"lessc",
 		"Package Control",
+		"SFTP",
 		"SideBarEnhancements",
 		"SublimeServer"
 	]
